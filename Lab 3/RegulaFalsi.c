@@ -2,7 +2,6 @@
 #include<math.h>
 float f(float x)
 {
-    //return cos(x) - x*exp(x);
     return 3*x*x-7*x+3;
 }
 void regula (float *x, float x0, float x1, float fx0, float fx1, int *itr)
