@@ -45,6 +45,5 @@
     {
         printf("\nx[%d] = %.2f",i+1,x[i]);
     }
-    
     getch();
 }
